@@ -55,3 +55,4 @@ impl Worker {
         Worker { id, thread }
     }
 }
+
